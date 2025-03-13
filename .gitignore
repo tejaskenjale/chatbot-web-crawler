@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# env.sh file
+env.sh
+
+
+# Environment Folder
+myenv/
+
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Other common files to ignore
+.DS_Store
+*.log
